@@ -1,0 +1,5 @@
+Author :Yash Gandhi
+Technologies:React ,Node,Mongodb
+Features Completed:both backend and frontend
+ Home,Event,Artist,Movie,Login,Logout,Password Reset,Forget-password,Signup,Authorization,Favorite Artists,,Logout,Seat,APIs for  sending pdf of tickets
+             of Movie and Event booking,Admin
