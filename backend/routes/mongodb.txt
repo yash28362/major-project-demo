@@ -1,0 +1,155 @@
+E:\TRAINING-2023\mongodb\mongosh-1.6.2-win32-x64\bin\mongosh
+enter
+
+db.cities.insertMany([
+   {"cityName":"Mumbai"},
+   {"cityName":"Pune"},
+   {"cityName":"Nagpur"},
+   {"cityName":"Nashik"},
+   {"cityName":"New Delhi"},
+   {"cityName":"Banglore"},
+   {"cityName":"Chennai"},
+   {"cityName":"Chandigarh"},
+   {"cityName":"Surat"},
+   {"cityName":"Panjim"},
+   {"cityName":"Hyderabad"},
+   {"cityName":"Raipur"},
+
+]
+)
+
+ db.artists.insertMany([ {
+ 
+      "artistName": "Varun Dhawan",
+      "Occupation": "Actor",
+      "Born": "April 24,1987",
+      "BirthPlace": "Mumbai,Maharashtra",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/varun-dhawan-21064-12-09-2017-02-22-38.jpg",
+      "artistDescription": "born 24 April 1987) is an Indian actor who works in Hindi films. One of India's highest-paid actors, he has been featured in Forbes India's Celebrity 100 list since 2014. He has starred in 11 consecutive box-office successes between 2012 and 2018"
+    },
+    {
+     
+      "artistName": "Kriti Sanon",
+      "Occupation": "Actor",
+      "Born": "July 27,1990",
+      "BirthPlace": "New Delhi,Delhi",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kriti-sanon-37438-15-09-2017-03-51-03.jpg",
+      "artistDescription": "Kriti Sanon (born 27 July 1990) is an Indian actress who works in Hindi and Telugu-language films. After pursuing a degree in engineering from the Jaypee Institute of Information Technology, she briefly worked as a fashion model. Sanon began her acting career by playing the leading lady in the 2014 action films"
+    },
+    {
+     
+      "artistName": "Abhishek Banerjee",
+      "Occupation": "Casting Director , Actor",
+      "Born": "May 5,1982",
+      "BirthPlace": "India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/abhishek-banerjee-1084840-08-08-2017-16-16-01.jpg",
+      "artistDescription": "Abhishek Banerjee (born 5 May 1985) is an Indian actor and casting director, best known for his roles in Stree and Rashmi Rocket."
+    },
+    {
+      
+      "artistName": "Deepak Dobrial",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "September 1,1975",
+      "BirthPlace": "Pauri Gadwal,Uttarakhand",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/deepak-dobriyal-567-18-12-2019-03-52-56.jpg",
+      "artistDescription": "Deepak Dobriyal (born 1 September 1975) is an Indian film and theatre actor.[1][2] He is recipient of a Filmfare Award. He worked in many Bollywood films such as Omkara (2006), Shaurya (2008), Tanu Weds Manu (2011), Dabangg 2 (2012), Chor Chor Super Chor (2013), Tanu Weds Manu Returns (2015), Prem Ratan Dhan Payo (2015),"
+    },
+    {
+ 
+      "artistName": "Saurabh Shukla",
+      "Occupation": "Actor,screenwriter,Director",
+      "Born": "March 5,1963",
+      "BirthPlace": "Uttar Pradesh,India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/saurabh-shukla-2063-24-03-2017-12-31-30.jpg",
+      "artistDescription": "Saurabh Shukla (born 5 March 1963) is a National Award winning Indian actor, screenwriter, and film director who works in Hindi and a few Tamil and Telugu films. He is famous for his roles in Satya (1998), Nayak: The Real Hero (2001), Yuva (2004), Lage Raho Munna Bhai (2006), Barfi! (2012), Jolly LLB (2013), Kick (2014), PK (2014), Jolly LLB 2 (2017) and Raid (2018)."
+    },
+    {
+      
+      "artistName": "Paul Rudd",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "April 6,1969",
+      "BirthPlace": "Passaic,New Jersey",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/paul-rudd-11271-24-03-2017-12-33-52.jpg",
+      "artistDescription": "Paul Stephen Rudd (born April 6, 1969) is an American actor. He studied theater at the University of Kansas and the American Academy of Dramatic Arts, before making his acting debut in 1991. He received a star on the Hollywood Walk of Fame in July 2015.[1] He was included on the Forbes Celebrity 100 list in 2019.[2] In 2021, he was named People magazine's Sexiest Man Alive"
+    },
+    {
+     
+      "artistName": "Kishor Kadam",
+      "Occupation": "Actor",
+      "Born": "November 9, 1967",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kishore-kadam-1215-28-02-2019-02-06-24.jpg",
+      "artistDescription": "Kishor Kadam (born 9 November 1967) is an Indian actor and poet who has acted prominently in Marathi and Hindi movies. He has also acted in Tamil movies and has appeared in some television serials as well. He is a veteran Marathi poet, writing with his pseudonym Saumitra and well known for his poems in the album Garawa with Milind Ingle, all songs revolved on the topic of rain."
+    },
+    {
+     
+      "artistName": "Jonathan Majors",
+      "Occupation": "American Actor",
+      "Born": "September 1,1989",
+      "BirthPlace": "North Carolina",
+      "artistImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jonathan_Majors_on_ColliderVideo%2C_September_2018.png/330px-Jonathan_Majors_on_ColliderVideo%2C_September_2018.png",
+      "artistDescription": "Jonathan Michael Majors (born September 7, 1989)[1][2] is an American actor. He first rose to prominence after starring in the independent feature film The Last Black Man in San Francisco (2019), and in 2020 garnered wider notice for starring in the HBO television series Lovecraft Country, for which he received a Primetime Emmy Award nomination. He has also portrayed Nat Love in the western The Harder They Fall (2021) and Jesse L. Brown in the war film Devotion (2022)."
+    },
+    {
+     
+      "artistName": "Kathryn Newton",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "February 8,1997",
+      "BirthPlace": "Orlando,Florida",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kathryn-newton-32467-03-04-2018-04-40-28.jpg",
+      "artistDescription": "Kathryn Newton (born February 8, 1997[1]) is an American actress. She is known for her starring roles as Louise Brooks in the CBS comedy series Gary Unmarried (2008–2010), Abigail Carlson in the HBO mystery drama series Big Little Lies (2017–2019), and Allie Pressman in the Netflix teen drama series The Society (2019). She is also known for portraying the older versions of Claire Novak in The CW dark fantasy series Supernatural (2014–2018)"
+    },
+    {
+      
+      "artistName": "Corey Stoll",
+      "Occupation": "Actor",
+      "Born": "March 14,1976",
+      "BirthPlace": "Manhattan,New York",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/corey-stoll-1043142-24-03-2017-12-41-25.jpg",
+      "artistDescription": "Corey Stoll (born March 14, 1976)[1] is an American actor. He is best known for his roles as Congressman Peter Russo on the Netflix political thriller series House of Cards (2013–2016), for which he received a Golden Globe nomination in 2013, and Dr. Ephraim Goodweather on the FX horror drama series The Strain (2014–2017)."
+    },
+    {
+     
+      "artistName": "Sam Worthington",
+      "Occupation": "Actor",
+      "Born": "August 2,1976",
+      "BirthPlace": "England,United Kingdom",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sam-worthington-12089-24-03-2017-12-32-07.jpg",
+      "artistDescription": "Samuel Henry John Worthington[1] (born 2 August 1976) is an English-born Australian actor. He moved from England when he was 6 months old, and he was raised in Australia. He is best known for playing Jake Sully in the Avatar franchise, Marcus Wright in Terminator Salvation, and Perseus in Clash of the Titans and its sequel Wrath of the Titans. "
+    },
+    {
+    
+      "artistName": "Zoe Saldana",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "June 19,1978",
+      "BirthPlace": "New Jersey,United states of America",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/zoe-saldana-3261-13-10-2017-03-54-34.jpg",
+      "artistDescription": "Zoë Yadira Saldaña-Perego née Saldaña Nazario; born June 19, 1978) is an American actress. Known primarily for her work in science fiction film franchises, she has appeared in all three of the highest-grossing films of all time (Avatar, Avatar: The Way of Water and Avengers: Endgame), a feat not achieved by any other performer."
+    },
+    {
+
+      "artistName": "Stephen Lang",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "July 11,1952",
+      "BirthPlace": "New York USA",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/stephen-lang-15008-24-03-2017-12-44-36.jpg",
+      "artistDescription": "Stephen Lang (born July 11, 1952) is an American actor. He is known for roles in films such as Manhunter (1986), Gettysburg, Tombstone (both 1993), Gods and Generals (2003), Public Enemies, The Men Who Stare at Goats (both 2009), Conan the Barbarian (2011) and Don't Breathe (2016)."
+    },
+    {
+ 
+      "artistName": "Mitchelle Rodriguez",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "July 12,1978",
+      "BirthPlace": "Bexar county,Texas",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/michelle-rodriguez-1471-13-10-2017-03-57-20.jpg",
+      "artistDescription": "Mayte Michelle Rodriguez (born July 12, 1978) is an American actress. Rodriguez began her career in 2000, playing a troubled boxer in the independent sports drama film Girlfight (2000), where she won the Independent Spirit Award and Gotham Award for Best Debut Performance.[1][2] Rodriguez then began starring as Letty Ortiz in the Fast & Furious franchise, and portrayed Rain Ocampo in the Resident Evil franchise"
+    },
+    {
+      
+      "artistName": "Sigourney Weaver",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "October 8,1949",
+      "BirthPlace": "New York USA",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sigourney-weaver-3258-24-03-2017-17-32-08.jpg",
+      "artistDescription": "Susan Alexandra Sigourney Weaver  born October 8, 1949) is an American actress. A figure in science fiction and popular culture,[2] she has received various accolades, including a British Academy Film Award, two Golden Globe Awards, and a Grammy Award, in addition to nominations for three Academy Awards, four Primetime Emmy Awards, and a Tony Award."
+    }]);

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Event Seat Booking Details</title>
+</head>
+<body>
+	<h1>{{ eventName }} Seat Booking Details</h1>
+	<p>Thank you for booking your movie tickets with us. Please find your seat booking details below:</p>
+	<ul>
+        <li>User Name :{{userName}}</li>
+		<li>Event Name: {{ eventName }}</li>
+		<li>Date: {{ date }}</li>
+		<li>Time: {{ time }}</li>
+        <li>Total Seats: {{ totalSeats }}</li>
+        <li>Total Price:{{totalPrice}}</li>
+        <li>Status:{{status}}</li>
+	</ul>
+	<p>Please find your PDF ticket attached to this email.</p>
+</body>
+</html>

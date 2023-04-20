@@ -1,0 +1,7 @@
+Refresh tokens can be a simple encoded string or a UUID. Refresh tokens are also bearer tokens, hence ​malicious users can theoretically steal the refresh token and use it indefinitely to access protected resources from the server. Then how do we secure our application from malicious users accessing protected resources?
+
+The most straightforward answer to this question would be saving refresh tokens in the database and revoking access of all users by deleting all the refresh tokens when any such malicious behavior is reported. But what if it’s not reported, do we let the malicious user access protected resources indefinitely? Do we keep on saving refresh tokens in our database?
+
+The answer to this question is refresh token rotation, refresh token reuse detection and deleting all old refresh tokens when a new one is generated. Let me try to explain my answer — when a new access token is generated (at the time of sign in/signup or using a refresh token) — a new refresh token should also be generated (this is called refresh token rotation), and all the previous refresh tokens must be deleted.
+
+In this way — even if a malicious user steals the refresh token, when the legitimate user tries to log in to the application, a new access token and a new refresh token will be generated, and all other refresh tokens will be deleted, if the malicious user tries to use the old refresh token the refresh token reuse detection would already detect the reuse or the refresh token wouldn’t exist in DB. This way we can prevent a malicious attack.

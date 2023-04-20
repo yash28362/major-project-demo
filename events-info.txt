@@ -1,0 +1,222 @@
+EMAIL=yg1402949@gmail.com
+PASSWORD=dimufzywagzndajk
+db.Events.insertOne(
+    [
+        {
+            
+            "eventName":"Legacy of Legends",
+            "artistName":"[Sunny Hindustani,Salman Ali,Raga Hasan,Farid Ahmed,Zuber Hashmi]",
+            "genre":"[Bollywood,Retro,Sufi]",
+            "language":"[Hindi]",
+            "address":"Shanmukhananda Hall:Mumbai",
+            "venueImage":"https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-legacy-of-legends-0-2023-3-28-t-6-16-6.jpg",
+            "mapLocation":"String",
+            "date":"28-04-2023",
+            "time":"6:30 PM",
+           "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-RnJpLCAyOCBBcHI%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00355564-qqppylbxhj-portrait.jpg",
+            "cityId":[]
+            
+            
+        }
+    ]
+)
+
+db.Events.insertMany(
+    [
+        {
+            "eventName":"YO YO HONEY SINGH 3.0 - BY FESTIVINA",
+            "artistName":"[Yo Yo Honey Singh, Seedhe Maut,Srushti Tawade]",
+            "genre":"[Bollywood,Hip Hop,Pop,Rap]",
+            "language":"[Hindi,English,Punjabi]",
+            "address":"MMRDA Grounds:Mumbai",
+            "venueImage":"https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-yo-yo-honey-singh-3-0-by-festivina-mumbai-0-2023-3-15-t-9-15-17.jpg",
+            "mapLocation":"String",
+            "date":"15-04-2023",
+            "time":"3:00 PM",
+           "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxNSBBcHI%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00352114-cnsnxztlzt-portrait.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"Vipul Goyal UNLEASHED!",
+            "artistName":"[Vipul Goyal]",
+            "genre":"[Comedy]",
+            "language":"[Hindi,English]",
+            "address":"Bal Gandharva Rang Mandir:Bandra",
+            "venueImage":"https://in.bmscdn.com/Artist/30815.jpg",
+            "mapLocation":"String",
+            "date":"22-04-2023",
+            "time":"6:30 PM",
+           "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAyMiBBcHI%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00131881-ydrsvmdbzt-portrait.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"Kumar Sanu - LIVE IN CONCERT",
+            "artistName":"[Kumar Sanu]",
+            "genre":"[Bollywood,Retro]",
+            "language":"[Hindi]",
+            "address":"Shanmukhananda Hall:Mumbai",
+            "venueImage":"https://in.bmscdn.com/Artist/29325.jpg",
+            "mapLocation":"String",
+            "date":"10-06-2023",
+            "time":"6:30PM",
+           "image":"https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-kumar-sanu-live-in-concert-0-2023-3-30-t-12-5-6.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"Kailash Kher Live in Concert",
+            "artistName":"[Kailash Kher]",
+            "genre":"[Folk,Fusion]",
+            "language":"[Hindi]",
+            "address":"Phoenix Market City:Pune",
+            "venueImage":"https://in.bmscdn.com/Artist/1129.jpg",
+            "mapLocation":"String",
+            "date":"22-04-2023",
+            "time":"7:00 PM",
+           "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAyMiBBcHI%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00355184-rppskzjrqd-portrait.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"Raftaar Intensity Tour - Pune",
+            "artistName":"[Raftaar]",
+            "genre":"[Bollywood,Rap,Hip Hop]",
+            "language":"[Hindi]",
+            "address":"Dimora Dance & Kitchen:Pune",
+            "venueImage":"https://in.bmscdn.com/Artist/1052666.jpg",
+            "mapLocation":"String",
+            "date":"28-04-2023",
+            "time":"8:30 PM",
+           "image":"https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-raftaar-intensity-tour-pune-0-2023-3-21-t-6-47-9.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"Kal Ki Chinta Nahi Karta ft.Ravi Gupta",
+            "artistName":"[Ravi Gupta]",
+            "genre":"[comedy]",
+            "language":"[Hindi]",
+            "address":"Local Gastro Bar, Koregaon:Pune",
+            "venueImage":"https://in.bmscdn.com/Artist/1063962.jpg",
+            "mapLocation":"String",
+            "date":"12-04-2023",
+            "time":"6:00 PM",
+           "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-VGh1LCAyNyBBcHIgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00337283-yprpyrhryy-portrait.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"A Standup Comedy Show",
+            "artistName":"[Hemkesh Mittal, Ankit Arora]",
+            "genre":"[Comedy]",
+            "language":"[Hindi]",
+            "address":"Raah-Literacy and Culture Centre:Pune",
+            "venueImage":"",
+            "mapLocation":"String",
+            "date":"30-04-2023",
+            "time":"6:30 PM",
+           "image":"https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-a-standup-comedy-show-0-2023-2-19-t-5-14-12.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"ASHA BHOSLE LIVE",
+            "artistName":"[Asha Bhosle]",
+            "genre":"[Bollywood,Retro]",
+            "language":"[Hindi,Marathi]",
+            "address":"Pandit Farms:Pune",
+            "venueImage":"https://in.bmscdn.com/Artist/238.jpg",
+            "mapLocation":"String",
+            "date":"05-05-2023",
+            "time":"7:00 PM",
+           "image":"https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-the-lit-bug-fest-0-2023-3-30-t-9-48-39.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"Live Performance By Rahgir",
+            "artistName":"[Rahgir]",
+            "genre":"[Comedy, Music]",
+            "language":"[Hindi]",
+            "address":"Trippy Tequila:Noida",
+            "venueImage":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAxNiBBcHI%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00356111-blcfglewfq-portrait.jpg",
+            "mapLocation":"String",
+            "date":"16-05-2023",
+            "time":"6:00 PM",
+           "image":"https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-live-performance-by-rahgir-0-2023-3-29-t-13-11-39.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"Take A Moment - Standup Comedy Show",
+            "artistName":"[Mohak Arora]",
+            "genre":"[comedy]",
+            "language":"[Hindi,English]",
+            "address":"Just BLR: Bengaluru",
+            "venueImage":"https://in.bmscdn.com/Artist/1263854.jpg",
+            "mapLocation":"String",
+            "date":"13-05-2023",
+            "time":"7:00 PM",
+           "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U3VuLCAzMCBKdWw%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00347153-ackptznqnd-portrait.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"Teaches Acting by Manoj Bajpayee",
+            "artistName":"[Manoj Bajpayee]",
+            "genre":"[Acting]",
+            "language":"[Hindi,English]",
+            "address":"Online Streaming",
+            "venueImage":"https://in.bmscdn.com/Artist/25584.jpg",
+            "mapLocation":"String",
+            "date":"15-07-2023",
+            "time":"7:00 PM",
+           "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-U2F0LCAxNSBBcHIgb253YXJkcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00305587-dcksflmjnw-portrait.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"SONU NIGAM LIVE IN CONCERT",
+            "artistName":"[Sonu Nigam]",
+            "genre":"[Folk,Fusion,Bollywood]",
+            "language":"[Hindi]",
+            "address":"Shanmukhananda Hall:Mumbai",
+            "venueImage":"https://in.bmscdn.com/Artist/10204.jpg",
+            "mapLocation":"String",
+            "date":"09-06-2023",
+            "time":"7:30 PM",
+           "image":"https://assets-in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:ote-RnJpLCA5IEp1bg%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-24:q-80/et00356809-nkphzddqug-portrait.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"Echoes of Earth Presents: The Cinematic Orchestra",
+            "artistName":"[Henry Saiz and Band]",
+            "genre":"[Bollywood,Sufi,HipHop,Rap ]",
+            "language":"[Hindi,English]",
+            "address":"Mehboob Studios:Bandra",
+            "venueImage":"http://echoesofearth.com/assets/images/artists/2022/HSB.png",
+            "mapLocation":"String",
+            "date":"15-05-2023",
+            "time":"3:00 PM",
+           "image":"https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-echoes-of-earth-presents-the-cinematic-orchestra-0-2023-3-20-t-8-52-47.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"Parthiv Gohil Live In Concert",
+            "artistName":"[Parthiv Gohil]",
+            "genre":"[Devotional,Pop]",
+            "language":"[Hindi]",
+            "address":"Jewel Galaxy:Juhu",
+            "venueImage":"https://in.bmscdn.com/Artist/31232.jpg",
+            "mapLocation":"String",
+            "date":"20-05-2023",
+            "time":"6:30 PM",
+           "image":"https://assets-in.bmscdn.com/nmcms/events/banner/mobile/media-mobile-parthiv-gohil-live-in-concert-0-2023-4-6-t-7-15-5.jpg",
+            "cityId":[] 
+        },
+        {
+            "eventName":"World Tour With Jay Shetty",
+            "artistName":"[Jay Shetty]",
+            "genre":"[Motivational]",
+            "language":"[English]",
+            "address":"Tata Theater NCPA Marg Nariman ",
+            "venueImage":"https://in.bmscdn.com/Artist/jay-shetty-2024093-1669998579.jpg",
+            "mapLocation":"String",
+            "date":"30-05-2023",
+            "time":"7:00 PM",
+           "image":"https://assets-in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-jay-shetty-love-rules-world-tour-0-2022-12-3-t-8-36-18.jpg",
+            "cityId":[] 
+        }
+    ]
+)

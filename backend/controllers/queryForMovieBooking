@@ -1,0 +1,13 @@
+db.bookingForMovies.insertOne({
+    "userId":"64411bbdc514722069b28274",
+    "movieName":"John Wick Chapter-4",
+    "totalPrice":"700",
+    "seatNos":["A3","A4"],
+    "showId":"643d6aee6d6c28863b77148f",
+    "bookingDate":"4-27-23",
+    "status":"Confirmed",
+    "NoofSeats":2,
+    "bookingTime":"4:00 PM"
+})
+
+db.theatres.deleteMany({'_id':{$nin:["643cd05308425cf71c830493"]}})

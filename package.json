@@ -1,0 +1,40 @@
+{
+  "name": "major-pro-0.1",
+  "version": "0.0.1",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js",
+    "server": "nodemon backend/server.js"
+  },
+  "author": "Yash",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "chalk": "^4.1.0",
+    "colors": "^1.4.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "express-async-handler": "^1.2.0",
+    "express-rate-limit": "^6.7.0",
+    "handlebars": "^4.7.7",
+    "joi": "^17.9.1",
+    "joi-password-complexity": "^5.1.0",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.0.3",
+    "nodemailer": "^4.7.0",
+    "pdfkit": "^0.13.0"
+  },
+  "files.associations": {
+    "*.js": "javascriptreact",
+    "*.env.development": "env",
+    "*.env.production": "env",
+    "*.env.local": "env"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

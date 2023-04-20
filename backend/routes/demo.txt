@@ -1,0 +1,658 @@
+[
+    {
+ 
+      "artistName": "Varun Dhawan",
+      "Occupation": "Actor",
+      "Born": "April 24,1987",
+      "BirthPlace": "Mumbai,Maharashtra",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/varun-dhawan-21064-12-09-2017-02-22-38.jpg",
+      "artistDescription": "born 24 April 1987) is an Indian actor who works in Hindi films. One of India's highest-paid actors, he has been featured in Forbes India's Celebrity 100 list since 2014. He has starred in 11 consecutive box-office successes between 2012 and 2018"
+    },
+    {
+     
+      "artistName": "Kriti Sanon",
+      "Occupation": "Actor",
+      "Born": "July 27,1990",
+      "BirthPlace": "New Delhi,Delhi",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kriti-sanon-37438-15-09-2017-03-51-03.jpg",
+      "artistDescription": "Kriti Sanon (born 27 July 1990) is an Indian actress who works in Hindi and Telugu-language films. After pursuing a degree in engineering from the Jaypee Institute of Information Technology, she briefly worked as a fashion model. Sanon began her acting career by playing the leading lady in the 2014 action films"
+    },
+    {
+     
+      "artistName": "Abhishek Banerjee",
+      "Occupation": "Casting Director , Actor",
+      "Born": "May 5,1982",
+      "BirthPlace": "India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/abhishek-banerjee-1084840-08-08-2017-16-16-01.jpg",
+      "artistDescription": "Abhishek Banerjee (born 5 May 1985) is an Indian actor and casting director, best known for his roles in Stree and Rashmi Rocket."
+    },
+    {
+      
+      "artistName": "Deepak Dobrial",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "September 1,1975",
+      "BirthPlace": "Pauri Gadwal,Uttarakhand",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/deepak-dobriyal-567-18-12-2019-03-52-56.jpg",
+      "artistDescription": "Deepak Dobriyal (born 1 September 1975) is an Indian film and theatre actor.[1][2] He is recipient of a Filmfare Award. He worked in many Bollywood films such as Omkara (2006), Shaurya (2008), Tanu Weds Manu (2011), Dabangg 2 (2012), Chor Chor Super Chor (2013), Tanu Weds Manu Returns (2015), Prem Ratan Dhan Payo (2015),"
+    },
+    {
+ 
+      "artistName": "Saurabh Shukla",
+      "Occupation": "Actor,screenwriter,Director",
+      "Born": "March 5,1963",
+      "BirthPlace": "Uttar Pradesh,India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/saurabh-shukla-2063-24-03-2017-12-31-30.jpg",
+      "artistDescription": "Saurabh Shukla (born 5 March 1963) is a National Award winning Indian actor, screenwriter, and film director who works in Hindi and a few Tamil and Telugu films. He is famous for his roles in Satya (1998), Nayak: The Real Hero (2001), Yuva (2004), Lage Raho Munna Bhai (2006), Barfi! (2012), Jolly LLB (2013), Kick (2014), PK (2014), Jolly LLB 2 (2017) and Raid (2018)."
+    },
+    {
+      
+      "artistName": "Paul Rudd",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "April 6,1969",
+      "BirthPlace": "Passaic,New Jersey",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/paul-rudd-11271-24-03-2017-12-33-52.jpg",
+      "artistDescription": "Paul Stephen Rudd (born April 6, 1969) is an American actor. He studied theater at the University of Kansas and the American Academy of Dramatic Arts, before making his acting debut in 1991. He received a star on the Hollywood Walk of Fame in July 2015.[1] He was included on the Forbes Celebrity 100 list in 2019.[2] In 2021, he was named People magazine's Sexiest Man Alive"
+    },
+    {
+     
+      "artistName": "Kishor Kadam",
+      "Occupation": "Actor",
+      "Born": "November 9, 1967",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kishore-kadam-1215-28-02-2019-02-06-24.jpg",
+      "artistDescription": "Kishor Kadam (born 9 November 1967) is an Indian actor and poet who has acted prominently in Marathi and Hindi movies. He has also acted in Tamil movies and has appeared in some television serials as well. He is a veteran Marathi poet, writing with his pseudonym Saumitra and well known for his poems in the album Garawa with Milind Ingle, all songs revolved on the topic of rain."
+    },
+    {
+     
+      "artistName": "Jonathan Majors",
+      "Occupation": "American Actor",
+      "Born": "September 1,1989",
+      "BirthPlace": "North Carolina",
+      "artistImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jonathan_Majors_on_ColliderVideo%2C_September_2018.png/330px-Jonathan_Majors_on_ColliderVideo%2C_September_2018.png",
+      "artistDescription": "Jonathan Michael Majors (born September 7, 1989)[1][2] is an American actor. He first rose to prominence after starring in the independent feature film The Last Black Man in San Francisco (2019), and in 2020 garnered wider notice for starring in the HBO television series Lovecraft Country, for which he received a Primetime Emmy Award nomination. He has also portrayed Nat Love in the western The Harder They Fall (2021) and Jesse L. Brown in the war film Devotion (2022)."
+    },
+    {
+     
+      "artistName": "Kathryn Newton",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "February 8,1997",
+      "BirthPlace": "Orlando,Florida",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/kathryn-newton-32467-03-04-2018-04-40-28.jpg",
+      "artistDescription": "Kathryn Newton (born February 8, 1997[1]) is an American actress. She is known for her starring roles as Louise Brooks in the CBS comedy series Gary Unmarried (2008–2010), Abigail Carlson in the HBO mystery drama series Big Little Lies (2017–2019), and Allie Pressman in the Netflix teen drama series The Society (2019). She is also known for portraying the older versions of Claire Novak in The CW dark fantasy series Supernatural (2014–2018)"
+    },
+    {
+      
+      "artistName": "Corey Stoll",
+      "Occupation": "Actor",
+      "Born": "March 14,1976",
+      "BirthPlace": "Manhattan,New York",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/corey-stoll-1043142-24-03-2017-12-41-25.jpg",
+      "artistDescription": "Corey Stoll (born March 14, 1976)[1] is an American actor. He is best known for his roles as Congressman Peter Russo on the Netflix political thriller series House of Cards (2013–2016), for which he received a Golden Globe nomination in 2013, and Dr. Ephraim Goodweather on the FX horror drama series The Strain (2014–2017)."
+    },
+    {
+     
+      "artistName": "Sam Worthington",
+      "Occupation": "Actor",
+      "Born": "August 2,1976",
+      "BirthPlace": "England,United Kingdom",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sam-worthington-12089-24-03-2017-12-32-07.jpg",
+      "artistDescription": "Samuel Henry John Worthington[1] (born 2 August 1976) is an English-born Australian actor. He moved from England when he was 6 months old, and he was raised in Australia. He is best known for playing Jake Sully in the Avatar franchise, Marcus Wright in Terminator Salvation, and Perseus in Clash of the Titans and its sequel Wrath of the Titans. "
+    },
+    {
+    
+      "artistName": "Zoe Saldana",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "June 19,1978",
+      "BirthPlace": "New Jersey,United states of America",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/zoe-saldana-3261-13-10-2017-03-54-34.jpg",
+      "artistDescription": "Zoë Yadira Saldaña-Perego née Saldaña Nazario; born June 19, 1978) is an American actress. Known primarily for her work in science fiction film franchises, she has appeared in all three of the highest-grossing films of all time (Avatar, Avatar: The Way of Water and Avengers: Endgame), a feat not achieved by any other performer."
+    },
+    {
+
+      "artistName": "Stephen Lang",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "July 11,1952",
+      "BirthPlace": "New York USA",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/stephen-lang-15008-24-03-2017-12-44-36.jpg",
+      "artistDescription": "Stephen Lang (born July 11, 1952) is an American actor. He is known for roles in films such as Manhunter (1986), Gettysburg, Tombstone (both 1993), Gods and Generals (2003), Public Enemies, The Men Who Stare at Goats (both 2009), Conan the Barbarian (2011) and Don't Breathe (2016)."
+    },
+    {
+ 
+      "artistName": "Mitchelle Rodriguez",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "July 12,1978",
+      "BirthPlace": "Bexar county,Texas",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/michelle-rodriguez-1471-13-10-2017-03-57-20.jpg",
+      "artistDescription": "Mayte Michelle Rodriguez (born July 12, 1978) is an American actress. Rodriguez began her career in 2000, playing a troubled boxer in the independent sports drama film Girlfight (2000), where she won the Independent Spirit Award and Gotham Award for Best Debut Performance.[1][2] Rodriguez then began starring as Letty Ortiz in the Fast & Furious franchise, and portrayed Rain Ocampo in the Resident Evil franchise"
+    },
+    {
+      
+      "artistName": "Sigourney Weaver",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "October 8,1949",
+      "BirthPlace": "New York USA",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sigourney-weaver-3258-24-03-2017-17-32-08.jpg",
+      "artistDescription": "Susan Alexandra Sigourney Weaver  born October 8, 1949) is an American actress. A figure in science fiction and popular culture,[2] she has received various accolades, including a British Academy Film Award, two Golden Globe Awards, and a Grammy Award, in addition to nominations for three Academy Awards, four Primetime Emmy Awards, and a Tony Award."
+    },
+    {
+      "id": 516,
+      "artistName": "Ajay Devgan",
+      "Occupation": "Actor,Voice Cast,Assistance Director",
+      "Born": "April 2,1969",
+      "BirthPlace": "New Delhi,Delhi",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ajay-devgn-24051-12-09-2017-04-41-13.jpg",
+      "artistDescription": "Vishal Veeru Devgan (born 2 April 1969), known professionally as Ajay Devgn, is an Indian actor, film director and producer who works primarily in Hindi cinema. Devgn has appeared in over a hundred films and has won numerous accolades, including four National Film Awards and four Filmfare Awards. In 2016, he was honoured by the Government of India with the Padma Shri, the fourth-highest civilian honour of the country."
+    },
+    {
+      "id": 517,
+      "artistName": "Shriya Saran",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "September 11,1982",
+      "BirthPlace": "Dehradun,Uttarakhand",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shriya-saran-2156-18-09-2017-04-10-24.jpg",
+      "artistDescription": "Shriya Saran Bhatnagar ( born 11 September 1982) is an Indian actress who works predominantly in Telugu, Tamil, and Hindi-language films. Although Saran aspired to become a well-known dancer, she became an actress with her film debut in 2001 with the Telugu film Ishtam, and had her first commercial success with Nuvve Nuvve (2002).[1]"
+    },
+    {
+      "id": 518,
+      "artistName": "Akshaye Khanna",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "March 28,1975",
+      "BirthPlace": "Mumbai,India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/akshaye-khanna-95-24-03-2017-14-07-23.jpg",
+      "artistDescription": "Akshaye Khanna (born 28 March 1975) is an Indian actor who appears in Hindi films. He is the son of actor Vinod Khanna. He has won numerous awards in his career including two Filmfare Awards, three Screen Awards and two IIFA Awards in varied acting categories."
+    },
+    {
+      "id": 519,
+      "artistName": "Tabu",
+      "Occupation": "Actor,Special Appearance",
+      "Born": "November 4,1971",
+      "BirthPlace": "Hyderabad,India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/tabu-2324-30-09-2017-11-54-15.jpg",
+      "artistDescription": "Tabassum Fatima Hashmi (born 4 November 1971), credited as Tabu, is an Indian actress who works primarily in Hindi films, alongside Telugu, Tamil and English films. Regarded as one of the most accomplished actresses in Hindi cinema, she has often played troubled women, from fictional to literary, in both mainstream and independent cinema."
+    },
+    {
+      "id": 520,
+      "artistName": "Prathamesh Parab",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "November 29,1993",
+      "BirthPlace": "Mumbai,Maharashtra",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/prathamesh-parab-29419-24-03-2017-17-59-15.jpg",
+      "artistDescription": "Prathamesh Parab (born 29 November 1993) is an Indian actor who works in Marathi cinema. He played a small role in Balak Palak before playing a lead character in Timepass. He reprised his role in its sequel Timepass 2 as a younger version of his own character. He received the Star Studded Annual Life Ok Screen Awards for (2014)."
+    },
+    {
+      "id": 521,
+      "artistName": "Ranbir Kapoor",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "September 28,1982",
+      "BirthPlace": "Mumbai,Maharashtra",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ranbir-kapoor-2817-14-09-2017-01-46-00.jpg",
+      "artistDescription": "Ranbir Kapoor born 28 September 1982) is an Indian actor known for his work in Hindi-language films. He is one of the highest-paid actors of Hindi cinema and has featured in Forbes India's Celebrity 100 list since 2012. Kapoor is the recipient of several awards, including six Filmfare Awards."
+    },
+    {
+      "id": 522,
+      "artistName": "Alia Bhatt",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "March 15,1993",
+      "BirthPlace": "Mumbai,Maharashtra",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/alia-bhatt-21065-13-09-2017-04-53-45.jpg",
+      "artistDescription": "Alia Bhatt ( born 15 March 1993) is a British actress of Indian descent who predominantly works in Hindi films.[1][2] She has received several accolades including four Filmfare Awards. One of India's highest-paid actresses, she has appeared in Forbes India's Celebrity 100 list since 2014 and was awarded the TIME100 Impact Award in 2022."
+    },
+    {
+      "id": 523,
+      "artistName": "Amitabh Bachhan",
+      "Occupation": "Actor,Voice Cast,Producer",
+      "Born": "October 11,1942",
+      "BirthPlace": "Allahabad,Uttar Pradesh",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/amitabh-bachchan-138-12-09-2017-02-34-37.jpg",
+      "artistDescription": "Amitabh Bachchan born as Amitabh Shrivastav;[1] 11 October 1942[7]) is an Indian actor, film producer, television host, occasional playback singer and former politician known for his work in Hindi cinema. He is regarded as one of the most successful and influential actors in the history of Indian cinema.[8]"
+    },
+    {
+      "id": 524,
+      "artistName": "Nagarjuna",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "August 29,1959",
+      "BirthPlace": "Chennai,TamilNadu",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/akkineni-nagarjuna-4501-18-09-2017-02-26-46.jpg",
+      "artistDescription": "Akkineni Nagarjuna Rao (born 29 August 1959), known mononymously as Nagarjuna, is an Indian actor, film producer, television presenter, and entrepreneur. Nagarjuna has acted predominantly in Telugu cinema, along with a few Hindi and Tamil language films. He has received nine state Nandi Awards, three Filmfare Awards South and two National Film Awards"
+    },
+    {
+      "id": 525,
+      "artistName": "Nishigandha Wad",
+      "Occupation": "Actor",
+      "Born": "October 11, 1969",
+      "BirthPlace": "Nagpur, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/nishigandha-wad-5491-1647342202.jpg",
+      "artistDescription": "She received her doctorate from the University of Mumbai with a dissertation on Changing Role of Women In Society — Reflections from Marathi & British Theatres (1970-1990)"
+    },
+    {
+      "id": 526,
+      "artistName": "Dwayne Johnson",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "May 2,1972",
+      "BirthPlace": "California,USA",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/dwayne-johnson-4011-22-12-2017-10-20-28.jpg",
+      "artistDescription": "Dwayne Douglas Johnson (born May 2, 1972), also known by his ring name The Rock,[3] is an American actor and former professional wrestler. Widely regarded as one of the greatest professional wrestlers of all time,[6][7] he was integral to the development and success of the World Wrestling Federation (WWF, now WWE) during the Attitude Era, an industry boom period in the late 1990s and early 2000s."
+    },
+    {
+      "id": 527,
+      "artistName": "Aldis Hodge",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "September 20,1986",
+      "BirthPlace": "North Carolina",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/aldis-hodge-36831-24-03-2017-16-05-13.jpg",
+      "artistDescription": "Aldis Alexander Basil Hodge (born September 20, 1986) is an American actor. Among his significant roles, he played Alec Hardison in the TNT series Leverage, MC Ren in the 2015 biopic Straight Outta Compton, Levi Jackson in the 2016 film Hidden Figures, Noah in the WGN America series Underground, Matthew in Girlfriends and Jim Brown in the 2020 film One Night in Miami.... He portrays Carter Hall / Hawkman in the DC Extended Universe, starting with Black Adam (2022)."
+    },
+    {
+      "id": 528,
+      "artistName": "Sarah Shahi",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "January 10,1980",
+      "BirthPlace": "North Carolina",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sarah-shahi-1047704-1663594955.jpg",
+      "artistDescription": "Aahoo Jahansouzshahi (Persian: born January 10, 1980), known professionally as Sarah Shahi is an American actress and former model. She played Carmen on The L Word in 2005, Kate Reed in the USA Network legal drama Fairly Legal (2011–2012), and Sameen Shaw on the CBS crime drama Person of Interest (2012–2016).[2] She has also appeared in the main role Det. Dani Reese in Life,[3] and in a supporting role in Alias"
+    },
+    {
+      "id": 529,
+      "artistName": "Pierce Brosnan",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "May 16,1953",
+      "BirthPlace": "Navan county,Ireland",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/pierce-brosnan-1699-24-03-2017-12-38-09.jpg",
+      "artistDescription": "Pierce Brendan Brosnan OBE (/ˈbrɒsnən/; born 16 May 1953) is an Irish actor and film producer. He is best known as the fifth actor to play secret agent James Bond in the Bond film series, starring in four films from 1995 to 2002 (GoldenEye, Tomorrow Never Dies, The World Is Not Enough and Die Another Day) and in multiple video games."
+    },
+    {
+      "id": 530,
+      "artistName": "Marwan Kenzari",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "January 10,1983",
+      "BirthPlace": "South Holland,Netherlands",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/marwan-kenzari-1064184-29-05-2017-13-01-18.jpg",
+      "artistDescription": "Marwan Kenzari (Arabic: born 16 January 1983) is a Dutch actor born in The Hague, Netherlands. Starting his career in 2008, he first came to prominence for his role in the 2013 film Wolf, which earned him a Golden Calf award for Best Actor. Since 2016, he has been starring in English-language films, including Aladdin (2019), The Old Guard (2020) and Black Adam (2022), which earned him international recognition."
+    },
+    {
+      "id": 531,
+      "artistName": "Eddie RedMayne",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "January 6, 1982",
+      "BirthPlace": "England, United Kingdom(Great Britain)",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/eddie-redmayne-3924-24-03-2017-17-39-35.jpg",
+      "artistDescription": "Edward John David Redmayne OBE ( born 6 January 1982) is an English actor. Known primarily for his role in biopics, he has received various accolades, including an Academy Award, a Tony Award, a BAFTA Award, and two Olivier Awards."
+    },
+    {
+      "id": 532,
+      "artistName": "Katherine Waterstone",
+      "Occupation": "Actor",
+      "Born": "March 3, 1980",
+      "BirthPlace": "Westminster, London, England, United Kingdom",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/katherine-waterson-1063074-24-03-2017-16-22-45.jpg",
+      "artistDescription": "Katherine Boyer Waterston (born March 3, 1980) is a British-American actress. She made her feature film debut in Michael Clayton (2007). She had supporting roles in films including Robot & Frank, Being Flynn (both 2012) and The Disappearance of Eleanor Rigby (2013), before her breakthrough performance in Inherent Vice (2014). She portrayed Chrisann Brennan in Steve Jobs (2015)"
+    },
+    {
+      "id": 533,
+      "artistName": "Alison Sudol",
+      "Occupation": "",
+      "Born": "",
+      "BirthPlace": "",
+      "artistImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Alison_Sudol_by_Gage_Skidmore_%282%29.jpg/330px-Alison_Sudol_by_Gage_Skidmore_%282%29.jpg",
+      "artistDescription": "Alison Sudol (born December 23, 1984)[1] is an American actress and musician. She is known as the singer A Fine Frenzy, and for her role as Queenie Goldstein in Fantastic Beasts and Where to Find Them (2016), as well as its sequels The Crimes of Grindelwald (2018) and The Secrets of Dumbledore (2022). Her music has been featured in numerous television shows and movies."
+    },
+    {
+      "id": 534,
+      "artistName": "Dan Folger",
+      "Occupation": "",
+      "Born": "",
+      "BirthPlace": "",
+      "artistImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Dan_Fogler_%2843001993914%29.jpg/330px-Dan_Fogler_%2843001993914%29.jpg",
+      "artistDescription": "Daniel Kevin Fogler (born October 20, 1976)[1] is an American actor, comedian and writer. He has appeared in films including Balls of Fury, Good Luck Chuck, Fantastic Beasts and Where to Find Them, Fantastic Beasts: The Crimes of Grindelwald, and Fantastic Beasts: The Secrets of Dumbledore and has done voice acting for Kung Fu Panda, Horton Hears a Who!, and Mars Needs Moms. He appeared on The Walking Dead as Luke."
+    },
+    {
+      "id": 535,
+      "artistName": "Erza Miller",
+      "Occupation": "",
+      "Born": "",
+      "BirthPlace": "",
+      "artistImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Ezra_Miller_by_Gage_Skidmore.jpg/330px-Ezra_Miller_by_Gage_Skidmore.jpg",
+      "artistDescription": "Ezra Matthew Miller (born September 30, 1992) is an American actor. Their[a] feature film debut was in Afterschool (2008), which they followed by starring in the drama We Need to Talk About Kevin (2011) and The Perks of Being a Wallflower (2012). In 2015, they co-starred in the drama The Stanford Prison Experiment and the comedy Trainwreck, before playing Credence Barebone / Aurelius Dumbledore in the Fantastic Beasts films Fantastic Beasts and Where to Find Them (2016)"
+    },
+    {
+      "id": 536,
+      "artistName": "Shah Rukh Khan",
+      "Occupation": "Actor,Producer,Special Appearances,Voice Cast",
+      "Born": "November 2, 1965",
+      "BirthPlace": "New Delhi, Delhi, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shah-rukh-khan-2092-12-09-2017-02-10-43.jpg"
+    },
+    {
+      "id": 537,
+      "artistName": "Deepika Padukon",
+      "Occupation": "Actor,Special Appearances,Producer",
+      "Born": "January 5, 1986",
+      "BirthPlace": "Copenhagen, Denmark",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/deepika-padukone-2822-12-09-2017-06-31-43.jpg",
+      "artistDescription": "Deepika Padukone born 5 January 1986 is an Indian actress who works predominantly in Hindi films. She is one of the highest-paid actresses in India, and her accolades include three Filmfare Awards. She features in listings of the nation's most popular personalities; Time named her one of the 100 most influential people in the world in 2018 and awarded her the TIME100 Impact Award in 2022."
+    },
+    {
+      "id": 538,
+      "artistName": "John Abrahm",
+      "Occupation": "Producer,Actor,Special Appearances",
+      "Born": "December 17, 1972",
+      "BirthPlace": "Kochi, Kerala, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/john_abraham_1017_29-07-2016_12-22-37.jpg",
+      "artistDescription": "John Abraham (born 17 December 1972)[1] is an Indian actor and film producer who works in Hindi films. Known for his stoic action hero persona, he has won a National Film Award (as producer) and received nominations for five Filmfare Awards."
+    },
+    {
+      "id": 539,
+      "artistName": "Dimple Kapadia",
+      "Occupation": "Actor • Voice Cast",
+      "Born": "June 8, 1957",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/dimple-kapadia-595-19-09-2017-05-14-09.jpg",
+      "artistDescription": "Dimple Kapadia (born 8 June 1957) is an Indian actress predominantly appearing in Hindi films. Born and raised in Mumbai by wealthy parents, she aspired to become an actress from a young age and received her first opportunity through her father's efforts to launch her in the film industry. She was discovered at age 14 by the filmmaker Raj Kapoor, who cast her in the title role of his teen romance Bobby (1973), which opened to major commercial success and gained her wide public recognition. Shortly before the film's release in 1973,"
+    },
+    {
+      "id": 540,
+      "artistName": "Ashutosh Rana",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "November 10, 1967",
+      "BirthPlace": "Madhya Pradesh, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ashutosh-rana-253-24-03-2017-12-47-15.jpg",
+      "artistDescription": "Ashutosh Ramnarayan Neekhra (born 10 November 1967), known professionally as Ashutosh Rana, is an Indian actor, producer, author and television personality. He has worked in Marathi, Telugu, Kannada, Tamil, and Hindi films. He has also worked in Indian television shows. He has also won two Filmfare Awards for Dushman and Sangharsh. He won these awards in the category Filmfare Awards in a negative role. He is known for his portrayal of negative roles"
+    },
+    {
+      "id": 541,
+      "artistName": "Akshay Kumar",
+      "Occupation": "Actor,Special Appearances,Producer,Voice Cast,Executive Producer",
+      "Born": "September 9, 1967",
+      "BirthPlace": "Punjab, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/akshay-kumar-94-20-12-2017-04-36-47.jpg",
+      "artistDescription": "Rajiv Hari Om Bhatia (born 9 September 1967),[4] known professionally as Akshay Kumar , is an Indian-born naturalised Canadian[1][2][3] actor and film producer who works in Hindi cinema. In over 30 years of acting, Kumar has appeared in over 100 films and has won several awards, including two National Film Awards and two Filmfare Awards. He received the Padma Shri, India's fourth-highest civilian honour, from the Government of India in 2009. Kumar is one of the most prolific actors in Indian cinema."
+    },
+    {
+      "id": 542,
+      "artistName": "Emraan Hashmi",
+      "Occupation": "Actor,Producer",
+      "Born": "March 24, 1979",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/emraan-hashmi-651-13-09-2016-06-29-11.jpg",
+      "artistDescription": "Emraan Anwar Hashmi (born 24 March 1979) is an Indian actor and singer who appears predominantly in Hindi cinema. Hashmi debuted in 2003 with the crime thriller film Footpath and subsequently appeared in films include Murder (2004), Kalyug (2005), Gangster (2006) and gained acclaim starring in the action film Awarapan (2007). Hashmi has received several Filmfare Awards nominations"
+    },
+    {
+      "id": 543,
+      "artistName": "Diana Penty",
+      "Occupation": "Actor",
+      "Born": "November 2, 1985",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/diana_penty_29801_20-07-2016_12-54-19.jpg",
+      "artistDescription": "Diana Penty ( born 2 November 1985) is an Indian actress who works predominantly in Hindi films. She began her modelling career in 2005 when she was signed up by Elite Models India.[2] Penty made her acting debut with the romantic comedy film Cocktail (2012), a box office success."
+    },
+    {
+      "id": 544,
+      "artistName": "Nushrat Bharucha",
+      "Occupation": "Actor,Special Appearance",
+      "Born": "May 17, 1990",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/nushrat-bharucha-10554-08-12-2017-06-35-12.jpg",
+      "artistDescription": "Nushrratt Bharuccha (born Nushrat Bharucha; 17 May 1985)[1] is an Indian actress who works in Hindi cinema. She has appeared in films like Love Sex Aur Dhokha, Pyaar Ka Punchnama, Pyaar Ka Punchnama 2, Sonu Ke Titu Ki Sweety, Dream Girl, Chhorii, Ajeeb Daastaans and Janhit Mein Jaari."
+    },
+    {
+      "id": 545,
+      "artistName": "Kusha Kapila",
+      "Occupation": "Actor,Voice Cast",
+      "Born": "December 17, 1972",
+      "BirthPlace": "Hyderabad,India",
+      "artistImage": "https://in.bmscdn.com/Artist/2003607.jpg",
+      "artistDescription": "Kusha Kapila (born 19 September 1989)[citation needed] is an Indian fashion editor, Internet celebrity, comedian, actress, and YouTuber from New Delhi, India"
+    },
+    {
+      "id": 546,
+      "artistName": "Riteish Vilasrao Deshmukh",
+      "Occupation": "Actor,Producer,Special Appearances,Voice Cast",
+      "Born": "December 17, 1978",
+      "BirthPlace": "Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/riteish-deshmukh-25378-13-09-2017-04-40-50.jpg",
+      "artistDescription": "Riteish Vilasrao Deshmukh (born 17 December 1978) is an Indian actor, television presenter, producer, screenwriter and filmmaker who works in Hindi and Marathi cinema. He is the son of politician Vilasrao Deshmukh. Deshmukh began his acting career with the film Tujhe Meri Kasam (2003) and since then he has worked in several successful films such as Masti (2004), Kyaa Kool Hai Hum (2005), Bluffmaster! (2005), Malamaal Weekly (2006), Heyy Babyy (2007), Dhamaal (2007), Housefull (2010), Double Dhamaal (2011), Housefull 2 (2012), Kyaa Super Kool Hain Hum (2012)"
+    },
+    {
+      "id": 547,
+      "artistName": "Genelia D'Souza Deshmukh",
+      "Occupation": "Actor,Special Appearances,Producer",
+      "Born": "August 5, 1987",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/genelia-d-souza-730-24-03-2017-17-29-08.jpg",
+      "artistDescription": "Genelia Deshmukh (née D'Souza; born 5 August 1987)[1][2] is an Indian actress and model who predominantly appears in Telugu, Hindi and Tamil language films. After gaining wide attention in a Parker Pen commercial with Amitabh Bachchan, D'Souza began her acting career with the box–office hit Tujhe Meri Kasam in 2003.[3] She was recognized for her role in Boys the same year."
+    },
+    {
+      "id": 548,
+      "artistName": "Ashok Saraf",
+      "Occupation": "Actor,screenwriter,Director",
+      "Born": "June 4, 1947",
+      "BirthPlace": "Nagpur, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/ashok-saraf-246-24-03-2017-12-31-06.jpg",
+      "artistDescription": "Ashok Saraf (Hindi pronunciation: [əʃoːk səɾaːf]; born 4 June 1947) is an Indian actor and comedian.[1][2] He has played the lead in various Marathi films and stage plays. He has also played supporting roles in Hindi films. He received five Filmfare Awards, Maharashtra government award for the film Pandu Havaldar, Screen Award for Sawai Havaldar, Bhojpuri Film Award for Maika Bitua, ten state government awards for Marathi films and Best Comedian in Maharashtracha Favorite Kon?."
+    },
+    {
+      "id": 549,
+      "artistName": "Jiya Shankar",
+      "Occupation": "Actor",
+      "Born": "September 11,1982",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/webin/profile/user_female.jpg",
+      "artistDescription": "Jiya Shankar is an Indian television actress known for playing Dr. Iravati Ira Pandey in Meri Hanikarak Biwi and Susheela Ruhail Solanki Susheela in Kaatelal & Sons. Also appeared as a co host of Good Night India on SAB TV. She recently appeared in the Marathi movie Ved, starring alongside Ritesh Deshmukh, and Genelia Deshmukh"
+    },
+    {
+      "id": 550,
+      "artistName": "Shubhankar Tawde",
+      "Occupation": "Actor",
+      "Born": "December 17, 1972",
+      "BirthPlace": "New Delhi,Delhi",
+      "artistImage": "https://nettv4u.com/imagine/09-11-2021/shubhankar-tawde.jpg",
+      "artistDescription": "Shubhankar Tawde is an Indian film actor, who predominantly works in Marathi film industry. He is a son of famous actor Sunil Waman Tawde. While pursuing his graduation, he joined with Ruia Natyavalay and acted in various plays to enhance his acting skills.In 2016, he made his acting debut with the Marathi TV serial Freshers. His acting performance in the serial made him familiar among the Marathi audience. In 2019, he appeared in the silver screen with the movie Kaagar directed by Makarand Mane."
+    },
+    {
+      "id": 551,
+      "artistName": "Saif Ali Khan",
+      "Occupation": "Actor,Producer,Special Appearances,Voice Cast",
+      "Born": "September 11,1982",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/saif-ali-khan-1978-12-09-2017-04-45-17.jpg",
+      "artistDescription": "Saif Ali Khan born Sajid Ali Khan Pataudi; 16 August 1970)[1] is an Indian actor and film producer who works in Hindi films. Part of the Pataudi family, he is the son of actress Sharmila Tagore and cricketer Mansoor Ali Khan Pataudi.Khan made his acting debut in Parampara (1993). He failed to earn hits with solo lead films in the 90s and had rare successes only in the multi-starrers Yeh Dillagi (1994)"
+    },
+    {
+      "id": 552,
+      "artistName": "Hritik Roshan",
+      "Occupation": "Actor,Producer,Special Appearances,Voice Cast",
+      "Born": "December 17, 1972",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hrithik_at_Rado_launch.jpg/330px-Hrithik_at_Rado_launch.jpg",
+      "artistDescription": "Hrithik Roshan (pronounced [ɾɪt̪ɪk ɾoʃən];[1] born 10 January 1974) is an Indian actor who works in Hindi films. He has portrayed a variety of characters and is known for his dancing skills. One of the highest-paid actors in India, he has won many awards, including six Filmfare Awards, of which four were for Best Actor. Starting from 2012, he has appeared in Forbes India's Celebrity 100 several times based on his income and popularity."
+    },
+    {
+      "id": 553,
+      "artistName": "Radhika Apte",
+      "Occupation": "Actor,Special Appearance",
+      "Born": "March 3, 1980",
+      "BirthPlace": "Chennai,TamilNadu",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/radhika-apte-3730-05-09-2019-06-37-49.jpg",
+      "artistDescription": "Radhika Apte (born 7 September 1985) is an Indian actress. She works predominantly in Hindi films, and has appeared in a few Tamil, Marathi, Telugu, Bengali, and English-language films. She began acting in theatre and made her film debut with a brief role in the Hindi fantasy, Vaah! Life Ho Toh Aisi! (2005)."
+    },
+    {
+      "id": 554,
+      "artistName": "Rohit Saraf",
+      "Occupation": "Actor",
+      "Born": "December 17, 1978",
+      "BirthPlace": "Mumbai,India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/rohit-saraf-2002253-1654245030.jpg",
+      "artistDescription": "Rohit Suresh Saraf (born 8 December 1996) is an Indian actor who primarily works in Hindi films and web series. He began his career on television and made his film debut with a supporting role in Dear Zindagi (2016). He went on to feature in the Norwegian film What Will People Say (2017), the comedy-drama Hichki (2018), the biopic The Sky Is Pink (2019), the black comedy Ludo (2020), and the thriller Vikram Vedha (2022). Since 2020, he has starred in the Netflix romantic comedy series Mismatched."
+    },
+    {
+      "id": 555,
+      "artistName": "Yogita Bihani",
+      "Occupation": "Actor,Producer",
+      "Born": "March 14,1976",
+      "BirthPlace": "Nagpur, Maharashtra, India",
+      "artistImage": "https://in.bmscdn.com/Artist/2000466.jpg",
+      "artistDescription": "Yogita Bihani is an Indian actress who made her television debut as Palak Sharma in Ekta Kapoor's romantic soap opera Dil Hi Toh Hai in 2018.[1]"
+    },
+    {
+      "id": 556,
+      "artistName": "Letitia Wright",
+      "Occupation": "Actor • Voice Cast",
+      "Born": "January 10,1983",
+      "BirthPlace": "New York, USA",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/letitia-wright-1090615-19-02-2018-04-14-28.jpg",
+      "artistDescription": "Letitia Michelle Wright (born 31 October 1993) is a Guyanese-British actress. She began her career with guest roles in the television series Top Boy, Coming Up, Chasing Shadows, Humans, Doctor Who, and Black Mirror. For the latter, she received a Primetime Emmy Award nomination. She then had her breakthrough for her role in the 2015 film Urban Hymn,[1] for which the British Academy of Film and Television Arts (BAFTA) named Wright among the 2015 group of BAFTA Breakthrough Brits."
+    },
+    {
+      "id": 557,
+      "artistName": "Lupita Nyong'o",
+      "Occupation": "Actor,Special Appearance",
+      "Born": "February 8,1997",
+      "BirthPlace": "New Jersey,United states of America",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/lupita-nyong-o-1050767-24-03-2017-17-42-32.jpg",
+      "artistDescription": "Lupita Amondi Nyong'o born 1 March 1983) is a Kenyan-Mexican[2] actress. She is the recipient of several accolades, including an Academy Award, and nominations for two Primetime Emmy Awards and a Tony Award."
+    },
+    {
+      "id": 558,
+      "artistName": "Danai Gurira",
+      "Occupation": "Actor,screenwriter,Director",
+      "Born": "July 27,1990",
+      "BirthPlace": "England,United Kingdom",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/danai-gurira-1071207-13-02-2018-11-07-30.jpg",
+      "artistDescription": "Danai Jekesai Gurira (born February 14, 1978) is a Zimbabwean-American actress and playwright. She is best known for her starring roles as Michonne on the AMC horror drama series The Walking Dead (2012–2020, 2022) and as Okoye in the Marvel Cinematic Universe superhero films, beginning with Black Panther (2018) and most recently appearing in its sequel Black Panther: Wakanda Forever (2022)."
+    },
+    {
+      "id": 559,
+      "artistName": "Tenoch Huerta",
+      "Occupation": "Actor,Producer",
+      "Born": "September 1,1989",
+      "BirthPlace": "Navan county,Ireland",
+      "artistImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Tenoch_Huerta_Q%26A_festival.jpg/330px-Tenoch_Huerta_Q%26A_festival.jpg",
+      "artistDescription": "José Tenoch Huerta Mejí born 29 January 1981)[1] is a Mexican actor. He has appeared in a number of movies in Latin America and Spain, starring in both feature films, short films, and Narcos: Mexico, credited as Tenoch Huerta. He is featured in Mónica Maristain's book, 30 Actors Made in Mexico. He plays Namor in the Marvel Cinematic Universe (MCU), starting with the film Black Panther: Wakanda Forever (2022), in which he is credited as Tenoch Huerta Mejía"
+    },
+    {
+      "id": 560,
+      "artistName": "Martin Freeman",
+      "Occupation": "Actor,Special Appearance",
+      "Born": "December 17, 1978",
+      "BirthPlace": "England, United Kingdom(Great Britain)",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/martin-freeman-3221-24-03-2017-12-37-32.jpg",
+      "artistDescription": "Martin John Christopher Freeman (born 8 September 1971) is an English actor. Among other accolades, he has won an Emmy Award, a BAFTA Award and a Screen Actors Guild Award, and has been nominated for a Golden Globe Award.Freeman's most notable roles are that of Tim Canterbury in the mockumentary series The Office (2001–2003), Dr. John Watson in the British crime drama series Sherlock (2010–2017), young Bilbo Baggins in The Hobbit film trilogy (2012–2014"
+    },
+    {
+      "id": 561,
+      "artistName": "Swapnil Joshi",
+      "Occupation": "Actor,Producer,Special Appearances,Voice Cast",
+      "Born": "November 2, 1985",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/swwapnil-joshi-4734-24-03-2017-12-31-12.jpg",
+      "artistDescription": "Swapnil Joshi (Marathi pronunciation) is an Indian film and television actor, in Hindi and Marathi languages. At nine years old, he appeared in the Ramanand Sagar show Uttar Ramayan. He has done some of the most successful series in television such as Krishna, Eka Lagnachi Dusri Goshta as well as films like Duniyadari, Mumbai-Pune-Mumbai casting him as the lead actor. He has done many comedy shows like Comedy Circus and Papad Pol – Shahabuddin Rathod Ki Rangeen Duniya in Hindi industry."
+    },
+    {
+      "id": 562,
+      "artistName": "Shivani Surve",
+      "Occupation": "Actor,Voice Cast,Producer",
+      "Born": "August 23, 1984",
+      "BirthPlace": "Mumbai, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/shivani-surve-1057553-1675756336.jpg",
+      "artistDescription": "Shivani Surve is an Indian television actress. She made her acting debut with Navya..Naye Dhadkan Naye Sawaal playing Nimisha and is best known for her role of Vividha in Star Plus's show Jaana Na Dil Se Door.[3] She made her film debut with the Marathi film Triple Seat in 2019."
+    },
+    {
+      "id": 563,
+      "artistName": "Anita Date",
+      "Occupation": "Actor",
+      "Born": "October 31, 1980",
+      "BirthPlace": "Nasik, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/anita-date-15144-24-03-2017-17-39-12.jpg",
+      "artistDescription": "Anita Date-Kelkar is an Indian actress.[3] She works predominantly in Marathi and Hindi television. She known for her performance in Mazhya Navryachi Bayko as Radhika"
+    },
+    {
+      "id": 564,
+      "artistName": "Subodh Bhave",
+      "Occupation": "Actor,Writer,Director",
+      "Born": "November 9, 1975",
+      "BirthPlace": "Pune, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/subodh-bhave-2260-28-08-2018-11-45-45.jpg",
+      "artistDescription": "Subodh Bhave (born 9 November 1975) is an Indian actor, writer, producer and director who is known for his work in Marathi Cinema. He has acted in many commercially successful and critically acclaimed Marathi movies. He is best known for his work in Ani... Dr. Kashinath Ghanekar, Balgandharva, Katyar Kaljat Ghusali.[1] He recently portrayed Vikrant Saranjame aka Gajendra Patil in Zee Marathi's Tula Pahate Re."
+    },
+    {
+      "id": 565,
+      "artistName": "Namrata Sahebrao",
+      "Occupation": "Actor,Special Appearance",
+      "Born": "March 15,1993",
+      "BirthPlace": "Pune, Maharashtra, India",
+      "artistImage": "https://biographyinmarathi.com/wp-content/uploads/2020/09/Namrata-Sambherao-Biography-Marathi.jpg",
+      "artistDescription": "Namrata Sahebrao is an Indian actress.[3] She works predominantly in Marathi and Hindi television. She known for her performance in Mazhya Navryachi Bayko as Radhika"
+    },
+    {
+      "id": 566,
+      "artistName": "Amey Wagh",
+      "Occupation": "Actor,Special Appearance",
+      "Born": "November 13, 1987",
+      "BirthPlace": "Pune, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/amey-wagh-11565-24-03-2017-17-54-11.jpg",
+      "artistDescription": "Amey Wagh (born 13 November 1987)[1] is an Indian Marathi actor known for films such as Popat, Faster Fene, Muramba, Girlfriend.[2][3] He was recently seen portraying Kushal in season 2 of Sacred Games and Rasool Sheikh in Asur- Welcome to Your Dark Side.real name, kartik bachate."
+    },
+    {
+      "id": 567,
+      "artistName": "Vaidehi Parshurami",
+      "Occupation": "Actor",
+      "Born": "July 27,1990",
+      "BirthPlace": "India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vaidehi-parshurami-19168-05-12-2019-04-24-49.jpg",
+      "artistDescription": "Vaidehi was raised in Mumbai. She did her schooling from Indian Education Society's English Medium School located in Hindu colony, Dadar East in Mumbai. She attended junior college at Ramniranjan Anandilal Podar College of Commerce and Economics in Mumbai. She holds a degree in B. A. with English literature from Ramnarain Ruia College & also completed her L. L. B. from New Law College, Mumbai.[4] She is also a trained classical kathak dancer"
+    },
+    {
+      "id": 568,
+      "artistName": "Lalit Prabhakar",
+      "Occupation": "Actor",
+      "Born": "September 12, 1987",
+      "BirthPlace": "Kalyan, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/lalit-prabhakar-1069608-21-05-2019-10-56-18.jpg",
+      "artistDescription": "Lalit Prabhakar is an Indian film, television and theatre actor predominantly working in the Marathi film industry. He is best known for his role as Aditya Desai on the popular daily soap Julun Yeti Reshimgathi and his debut film as main actor in the film Chi Va Chi Sau Ka"
+    },
+    {
+      "id": 569,
+      "artistName": "Janaki Pathak",
+      "Occupation": "Actor",
+      "Born": "November 29,1993",
+      "BirthPlace": "Nagpur, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/janaki-pathak-1096371-13-11-2018-12-42-49.jpg",
+      "artistDescription": "Janaki Pathak is a popular Actor. Latest movie in which Janaki Pathak has acted is Vanilla, Strawberry & Chocolate."
+    },
+    {
+      "id": 570,
+      "artistName": "Vijay Nikam",
+      "Occupation": "Actor",
+      "Born": "October 31, 1980",
+      "BirthPlace": "Akola,Maharashtra",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/vijay-nikam-25502-13-09-2017-02-53-05.jpg",
+      "artistDescription": "Vijay Nikam is an Indian film, television and theatre actor predominantly working in the Marathi film industry. He is best known for his role as Aditya Desai on the popular daily soap Julun Yeti Reshimgathi and his debut film as main actor in the film Chi Va Chi Sau Ka"
+    },
+    {
+      "id": 571,
+      "artistName": "Subodh Bhave",
+      "Occupation": "Actor,Producer",
+      "Born": "April 24,1987",
+      "BirthPlace": "Pune, Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/subodh-bhave-2260-28-08-2018-11-45-45.jpg",
+      "artistDescription": "Subodh Bhave (born 9 November 1975) is an Indian actor, writer, producer and director who is known for his work in Marathi Cinema. He has acted in many commercially successful and critically acclaimed Marathi movies. He is best known for his work in Ani... Dr. Kashinath Ghanekar, Balgandharva, Katyar Kaljat Ghusali.[1] He recently portrayed Vikrant Saranjame aka Gajendra Patil in Zee Marathi's Tula Pahate Re."
+    },
+    {
+      "id": 572,
+      "artistName": "Sharad Kelkar",
+      "Occupation": "Actor,Producer",
+      "Born": "October 7, 1976",
+      "BirthPlace": "Gwalior, Madhya Pradesh, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/sharad-kelkar-28800-24-03-2017-17-39-47.jpg",
+      "artistDescription": "Sharad Kelkar (born 7 October 1976)[1] is an Indian film actor and voice artist from Mumbai, Maharashtra. He works primarly in Hindi films, Marathi films. Kelkar has appeared as lead in television serials for brief period of time, now he do web series, regional language films in Telugu, Tamil and often dub Hollywood films"
+    },
+    {
+      "id": 573,
+      "artistName": "Amruta Khanvilkar",
+      "Occupation": "Actor,Special Appearance",
+      "Born": "November 23, 1984",
+      "BirthPlace": "Maharashtra, India",
+      "artistImage": "https://assets-in.bmscdn.com/iedb/artist/images/website/poster/large/amruta-khanvilkar-147-02-05-2017-10-52-27.jpg",
+      "artistDescription": "Amruta Khanvilkar (born 23 November 1984) is an Indian film and television actress. She primarily works in Marathi and Hindi films. Khanvilkar aspired to be a film actress from an early age and began her career as a contestant on India's Best Cinestars Ki Khoj in 2004. She made her Marathi film debut with Golmaal (2006) and her Hindi debut with Mumbai Salsa (2007). This was followed by commercial success with Saade Maade Teen (2007) and Phoonk (2008)."
+    }
+  ]
